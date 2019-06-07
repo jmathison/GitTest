@@ -74,5 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Put the folder name of any content packs you added to the project here
-StarterContent/*
-SoulCity/*
+Content/StarterContent/*
+Content/SoulCity/*
